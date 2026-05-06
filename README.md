@@ -3,7 +3,7 @@
 </div>
 <!--<h1 align="left">Hola, soy Pedro Reyes 👋</h1>-->
 Analista de Datos en formación | Revenue Management · Hospitalidad · Tecnología  
-📍 Cancún, México · 🎯 Buscando roles data-driven (fintech, remoto o híbrido)
+📍 Cancún, México
  
 ---
  
@@ -15,6 +15,7 @@ Más de 10 años liderando operaciones en hospitalidad y tecnología, tomando de
 - 📈 Lideré una transición operativa que resultó en **+114% de ingresos YoY**
 - 🛠️ Implementé PMS, channel managers y motores de reservas desde cero
 - 🎓 Certificación **TripleTen Data Analytics** (2026, en curso)
+- 🎯 Buscando roles data-driven (fintech, remoto o híbrido)
 ---
  
 ## Stack
