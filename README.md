@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://data_coffee_menos_1mb.jpg">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/data_coffee_menos_1mb.jpg">
 <h1 align="center">Hola, soy Pedro Reyes 👋</h1>
 </div>
 <!--
