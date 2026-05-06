@@ -4,8 +4,7 @@ Analista de Datos en formación | Revenue Management · Hospitalidad · Tecnolog
 📍 Cancún, México
 </div>
 <!--<h1 align="left">Hola, soy Pedro Reyes 👋</h1>-->
----
- 
+
 ## Sobre mí
  
 Más de 10 años liderando operaciones en hospitalidad y tecnología, tomando decisiones basadas en datos antes de saber que eso tenía nombre. Hoy formalizo esa experiencia con herramientas de análisis modernas.
