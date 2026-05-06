@@ -1,10 +1,9 @@
 <div align="center">
 <img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/data_coffee_menos_1mb.jpg">
-</div>
-<!--<h1 align="left">Hola, soy Pedro Reyes 👋</h1>-->
 Analista de Datos en formación | Revenue Management · Hospitalidad · Tecnología  
 📍 Cancún, México
- 
+</div>
+<!--<h1 align="left">Hola, soy Pedro Reyes 👋</h1>-->
 ---
  
 ## Sobre mí
