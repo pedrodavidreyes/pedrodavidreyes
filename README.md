@@ -2,6 +2,28 @@
 <img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/data_coffee_menos_1mb.jpg">
 <h1 align="center">Hola, soy Pedro Reyes 👋</h1>
 </div>
+# Hola, soy Pedro David Reyes Pérez 👋
+ 
+**Analista de Datos en formación** | Revenue Management · Hospitalidad · Tecnología  
+📍 Cancún, México · 🎯 Buscando roles data-driven (fintech, remoto o híbrido)
+ 
+---
+ 
+## Sobre mí
+ 
+Más de 10 años liderando operaciones en hospitalidad y tecnología, tomando decisiones basadas en datos antes de saber que eso tenía nombre. Hoy formalizo esa experiencia con herramientas de análisis modernas.
+ 
+- 📊 Construí dashboards de ocupación, ADR y RevPAR para apoyar estrategia tarifaria
+- 📈 Lideré una transición operativa que resultó en **+114% de ingresos YoY**
+- 🛠️ Implementé PMS, channel managers y motores de reservas desde cero
+- 🎓 Certificación **TripleTen Data Analytics** (2026, en curso)
+---
+ 
+## Stack
+ 
+```
+SQL · Python · Power BI · Excel · Google Analytics · WordPress
+```
 <!--
 **pedrodavidreyes/pedrodavidreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
