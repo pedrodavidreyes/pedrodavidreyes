@@ -1,5 +1,6 @@
-## Hola👋 soy Pedro Reyes
-
+<div align="center">
+<h1 align="center">Hola, soy Pedro Reyes 👋</h1>
+</div>
 <!--
 **pedrodavidreyes/pedrodavidreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
