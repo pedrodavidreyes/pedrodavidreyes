@@ -28,7 +28,7 @@ Más de 10 años liderando operaciones en hospitalidad y tecnología, tomando de
 
 ---
 
-## Proyectos destacados
+## ☕ Proyectos destacados
 
 <table>
 <tr>
