@@ -92,7 +92,7 @@ Análisis del funnel de compra y cohortes de retención D7–D28, con simulació
 ---
 
 <div align="center">
-  <sub>📬 ¿Hablamos? Encuéntrame en <a href="https://www.linkedin.com/in/pedrodavidreyes">LinkedIn</a></sub>
+  <sub>📬 ¿Hablamos? Encuéntrame en <a href="https://www.linkedin.com/in/pedro-david-reyes">LinkedIn</a></sub>
 </div>
 <!--
 tripleten
