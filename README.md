@@ -56,7 +56,7 @@ Análisis exploratorio que evalúa la relación entre congestión vehicular y PI
 
 <br><br>
 
-🔗 <a href="https://github.com/pedrodavidreyes/mobility-economy-latam">Ver proyecto</a>
+🔗 <a href="https://github.com/pedrodavidreyes/Movilidad-Urbana-y-Economia">Ver proyecto</a>
 
 </td>
 <td width="50%" valign="top">
