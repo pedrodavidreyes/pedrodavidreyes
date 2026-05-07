@@ -54,8 +54,6 @@ Análisis exploratorio que evalúa la relación entre congestión vehicular y PI
 
 <code>Python</code> <code>Pandas</code> <code>Seaborn</code> <code>Matplotlib</code> <code>EDA</code>
 
-<br><br>
-
 🔗 <a href="https://github.com/pedrodavidreyes/Movilidad-Urbana-y-Economia">Ver proyecto</a>
 
 </td>
