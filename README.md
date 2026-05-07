@@ -68,6 +68,7 @@ Análisis exploratorio que evalúa la relación entre congestión vehicular y PI
 
 Análisis del funnel de compra y cohortes de retención D7–D28, con simulación del impacto económico de mejoras en la tasa de conversión.
 
+<img src="https://github.com/pedrodavidreyes/Embudo-y-retencion-MercadoLibre/blob/imagenes/embudo%20general.png?raw=true" width="100%">
 <br><br>
 
 <b>Hallazgos clave:</b>
