@@ -41,6 +41,7 @@ Más de 10 años liderando operaciones en hospitalidad y tecnología, tomando de
 
 Análisis exploratorio que evalúa la relación entre congestión vehicular y PIB per cápita para identificar ciudades prioritarias de inversión en infraestructura de transporte.
 
+<img src="https://github.com/pedrodavidreyes/Movilidad-Urbana-y-Economia/blob/imagenes/boxplot%20para%20observar%20el%20comportamiento%20de%20los%20minutos%20de%20congestion%20JamsDelay.png?raw=true" width="100%">
 <br><br>
 
 <b>Hallazgos clave:</b>
