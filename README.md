@@ -79,7 +79,7 @@ Análisis del funnel de compra y cohortes de retención D7–D28, con simulació
 
 <code>Análisis de embudo</code> <code>Cohortes</code> <code>Retención</code> <code>Simulación</code> <code>Excel</code>
 
-🔗 <a href="#">Ver proyecto</a> <i>(próximamente)</i>
+🔗 <a href="https://github.com/pedrodavidreyes/Embudo-y-retencion-MercadoLibre">Ver proyecto</a>
 
 </td>
 </tr>
