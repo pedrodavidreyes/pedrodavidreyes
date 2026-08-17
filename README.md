@@ -42,7 +42,7 @@ Análisis del funnel de compra y cohortes de retención D7–D28, con simulació
 <td width="28%" valign="top">
 
 <a href="https://github.com/pedrodavidreyes/Movilidad-Urbana-y-Economia">
-<img src="https://pedrodavidreyes.github.io/proyecto_5_pib_2024.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/histograma.webp" width="100%">
 </a>
 
 </td>
@@ -67,7 +67,7 @@ Análisis exploratorio que evalúa la relación entre congestión vehicular y PI
 <td width="28%" valign="top">
 
 <a href="https://mallasombradelbajio.com/">
-<img src="https://pedrodavidreyes.github.io/mallasombra_1280x720.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/histograma.webp" width="100%">
 </a>
 
 </td>
@@ -92,7 +92,7 @@ Rediseño integral de un sitio web que desarrollé años atrás, modernizando su
 <td width="28%" valign="top">
 
 <a href="https://github.com/pedrodavidreyes/Proyecto_Experimento_A-B_en_Landing_Page">
-<img src="https://pedrodavidreyes.github.io/testab.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/histograma.webp" width="100%">
 </a>
 
 </td>
