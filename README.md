@@ -67,7 +67,7 @@ Análisis exploratorio que evalúa la relación entre congestión vehicular y PI
 <td width="28%" valign="top">
 
 <a href="https://mallasombradelbajio.com/">
-<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/histograma.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/mallasombra.webp" width="100%">
 </a>
 
 </td>
@@ -92,7 +92,7 @@ Rediseño integral de un sitio web que desarrollé años atrás, modernizando su
 <td width="28%" valign="top">
 
 <a href="https://github.com/pedrodavidreyes/Proyecto_Experimento_A-B_en_Landing_Page">
-<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/histograma.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/landing.webp" width="100%">
 </a>
 
 </td>
