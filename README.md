@@ -23,7 +23,7 @@
 </td>
 <td width="72%" valign="top">
 
-### 🛒 Embudo y retención · MercadoLibre   🟠 `Nuevo`
+### 🛒 Embudo y retención · MercadoLibre  
 
 Análisis del funnel de compra y cohortes de retención D7–D28, con simulación del impacto económico de mejoras en la tasa de conversión.
 
