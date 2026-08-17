@@ -1,8 +1,7 @@
 <section class="hero">
   <p class="greeting">Hola 👋</p>
 
-  <h1>Soy Pedro David Reyes</h1>
-  <h2>Analista de Datos con visión de negocio</h2>
+  <h1>Analista de Datos con visión de negocio</h1>
 
   <p class="stack">SQL · Python · Power BI · Excel</p>
 
