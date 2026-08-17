@@ -1,24 +1,16 @@
-<section class="hero">
-  <p class="greeting">Hola 👋</p>
+<h1>Analista de Datos con visión de negocio</h1>
 
-  <h1>Analista de Datos con visión de negocio</h1>
-
-  <p class="stack">SQL · Python · Power BI · Excel</p>
-
-  <p class="tagline">
-    Transformo datos en información clara que ayuda a tomar mejores decisiones.
-  </p>
-
-  <p class="bio">
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+<p>Transformo datos en información clara que ayuda a tomar mejores decisiones.</p>
+  <p>
     Mi experiencia combina <strong>tecnología, operaciones, hotelería y gestión de negocios</strong>,
     lo que me permite analizar los datos no solo desde una perspectiva técnica, sino también
     entender su impacto en la operación y los resultados.
   </p>
-
-</section>
-
 <br>
-
 # Mis últimos proyectos `</>`
 
 <table>
