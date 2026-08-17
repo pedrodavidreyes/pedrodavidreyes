@@ -17,7 +17,7 @@
 <td width="28%" valign="top">
 
 <a href="https://github.com/pedrodavidreyes/Embudo-y-retencion-MercadoLibre">
-<img src="https://pedrodavidreyes.github.io/proyecto_4_embudo.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/embudo.webp" width="100%">
 </a>
 
 </td>
