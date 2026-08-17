@@ -1,9 +1,9 @@
 <h1>Analista de Datos con visión de negocio</h1>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-2b2b2b?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2b2b2b?style=flat-square&logo=microsoftexcel&logoColor=white)
 <p>Transformo datos en información clara que ayuda a tomar mejores decisiones.</p>
   <p>
     Mi experiencia combina <strong>tecnología, operaciones, hotelería y gestión de negocios</strong>,
