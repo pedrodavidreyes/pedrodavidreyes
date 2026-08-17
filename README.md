@@ -37,7 +37,30 @@ Validación estadística de un experimento A/B en página de inicio combinando p
 </table>
 
 ---
+<table>
+<tr>
+<td width="28%" valign="top">
 
+<a href="https://github.com/pedrodavidreyes/Proyecto_Dashboard_de_desempeno_comercial">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/landing.webp" width="100%">
+</a>
+
+</td>
+<td width="72%" valign="top">
+
+### 📊 Dashboard de desempeño comercial · Andes Retail Group
+
+Análisis interactivo en Power BI del desempeño comercial 2024–2025 en Perú, Chile y Colombia, enfocado en ventas, rentabilidad, segmentos de clientes y estacionalidad para detectar patrones y oportunidades de mejora.
+
+<kbd>Power BI</kbd> <kbd>DAX</kbd> <kbd>Power Query</kbd> <kbd>Análisis comercial</kbd> <kbd>Storytelling/kbd>
+
+**[Ver proyecto →](https://github.com/pedrodavidreyes/Proyecto_Dashboard_de_desempeno_comercial)**
+
+</td>
+</tr>
+</table>
+
+---
 <table>
 <tr>
 <td width="28%" valign="top">
