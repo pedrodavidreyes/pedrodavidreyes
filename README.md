@@ -16,10 +16,6 @@
     entender su impacto en la operación y los resultados.
   </p>
 
-  <div class="cta">
-    <a href="https://wa.me/529982149449" class="btn btn-primary">Hablemos por WhatsApp</a>
-    <a href="https://pedrodavidreyes.github.io/cv/" class="btn btn-secondary">Descargar CV</a>
-  </div>
 </section>
 
 <br>
@@ -123,39 +119,3 @@ Validación estadística de un experimento A/B en página de inicio combinando p
 </td>
 </tr>
 </table>
-
-<br>
-
-# Artículos recientes del blog ✒️
-
-<table>
-<tr>
-<td width="28%" valign="top">
-
-<a href="https://pedrodavidreyes.github.io/blog/">
-<img src="https://pedrodavidreyes.github.io/CV_Template_ATS.webp" width="100%">
-</a>
-
-</td>
-<td width="72%" valign="top">
-
-### Tu CV no es tu biografía: es tu carta de venta
-
-Consejos para crear un CV claro, atractivo y compatible con ATS, con un template descargable para adaptar.
-
-**[Leer artículo →](https://pedrodavidreyes.github.io/blog/)**
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-### 🌐 También puedes encontrarme en
-
-**[Portafolio](https://pedrodavidreyes.github.io/)** ·
-**[CV](https://pedrodavidreyes.github.io/cv/)** ·
-**[Blog](https://pedrodavidreyes.github.io/blog/)** ·
-**[Correo](mailto:pedrodavidreyesperez+github@gmail.com?subject=Contacto%20desde%20GitHub)**
