@@ -1,18 +1,26 @@
-Hola 👋
+<section class="hero">
+  <p class="greeting">Hola 👋</p>
 
-# Soy Pedro David Reyes
+  <h1>Soy Pedro David Reyes</h1>
+  <h2>Analista de Datos con visión de negocio</h2>
 
-## Analista de Datos con visión de negocio
+  <p class="stack">SQL · Python · Power BI · Excel</p>
 
-**SQL · Python · Power BI · Excel**
+  <p class="tagline">
+    Transformo datos en información clara que ayuda a tomar mejores decisiones.
+  </p>
 
-Transformo datos en información clara que ayuda a tomar mejores decisiones.
+  <p class="bio">
+    Mi experiencia combina <strong>tecnología, operaciones, hotelería y gestión de negocios</strong>,
+    lo que me permite analizar los datos no solo desde una perspectiva técnica, sino también
+    entender su impacto en la operación y los resultados.
+  </p>
 
-Mi experiencia combina **tecnología, operaciones, hotelería y gestión de negocios**, lo que me permite analizar los datos no solo desde una perspectiva técnica, sino también entender su impacto en la operación y los resultados.
-
-<br>
-
-📧 **[Contáctame por correo](mailto:pedrodavidreyesperez+github@gmail.com?subject=Contacto%20desde%20tu%20portafolio)**     📄 **[Descargar CV](https://pedrodavidreyes.github.io/cv/)**
+  <div class="cta">
+    <a href="https://wa.me/529982149449" class="btn btn-primary">Hablemos por WhatsApp</a>
+    <a href="https://pedrodavidreyes.github.io/cv/" class="btn btn-secondary">Descargar CV</a>
+  </div>
+</section>
 
 <br>
 
