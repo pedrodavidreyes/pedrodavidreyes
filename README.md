@@ -1,5 +1,3 @@
-# README.md — Perfil principal de GitHub
-
 Hola 👋
 
 # Soy Pedro David Reyes
