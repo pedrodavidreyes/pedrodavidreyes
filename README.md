@@ -12,6 +12,32 @@
   </p>
 <br>
 <h2>Mis últimos proyectos</h2>
+
+<table>
+<tr>
+<td width="28%" valign="top">
+
+<a href="https://github.com/pedrodavidreyes/Proyecto_Experimento_A-B_en_Landing_Page">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/landing.webp" width="100%">
+</a>
+
+</td>
+<td width="72%" valign="top">
+
+### 🧪 Test A/B · Landing Page ecommerce   🟠 `Nuevo`
+
+Validación estadística de un experimento A/B en página de inicio combinando prueba t de Student, prueba Z para dos proporciones y chi-cuadrada, para determinar qué versión maximiza conversión.
+
+<kbd>Prueba t</kbd> <kbd>Prueba Z</kbd> <kbd>Chi-cuadrada</kbd> <kbd>A/B Testing</kbd> <kbd>Python</kbd> <kbd>Jupyter Notebook</kbd>
+
+**[Ver proyecto →](https://github.com/pedrodavidreyes/Proyecto_Experimento_A-B_en_Landing_Page)**
+
+</td>
+</tr>
+</table>
+
+---
+
 <table>
 <tr>
 <td width="28%" valign="top">
@@ -87,25 +113,4 @@ Rediseño integral de un sitio web que desarrollé años atrás, modernizando su
 
 ---
 
-<table>
-<tr>
-<td width="28%" valign="top">
 
-<a href="https://github.com/pedrodavidreyes/Proyecto_Experimento_A-B_en_Landing_Page">
-<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/landing.webp" width="100%">
-</a>
-
-</td>
-<td width="72%" valign="top">
-
-### 🧪 Test A/B · Landing Page ecommerce   🟠 `Nuevo`
-
-Validación estadística de un experimento A/B en página de inicio combinando prueba t de Student, prueba Z para dos proporciones y chi-cuadrada, para determinar qué versión maximiza conversión.
-
-<kbd>Prueba t</kbd> <kbd>Prueba Z</kbd> <kbd>Chi-cuadrada</kbd> <kbd>A/B Testing</kbd> <kbd>Python</kbd> <kbd>Jupyter Notebook</kbd>
-
-**[Ver proyecto →](https://github.com/pedrodavidreyes/Proyecto_Experimento_A-B_en_Landing_Page)**
-
-</td>
-</tr>
-</table>
