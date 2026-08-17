@@ -42,7 +42,7 @@ Validación estadística de un experimento A/B en página de inicio combinando p
 <td width="28%" valign="top">
 
 <a href="https://github.com/pedrodavidreyes/Proyecto_Dashboard_de_desempeno_comercial">
-<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/dashboard_a.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/dashboard_ac.webp" width="100%">
 </a>
 
 </td>
