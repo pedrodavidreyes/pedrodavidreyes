@@ -11,8 +11,7 @@
     entender su impacto en la operación y los resultados.
   </p>
 <br>
-# Mis últimos proyectos `</>`
-
+<h2>Mis últimos proyectos</h2>
 <table>
 <tr>
 <td width="28%" valign="top">
