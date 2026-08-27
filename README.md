@@ -99,7 +99,7 @@ Detecté que el 89% de la fuga en el funnel de Mercado Libre ocurre en select_it
 
 ### 🚦 Movilidad urbana y economía · Latam
 
-Análisis exploratorio que evalúa la relación entre congestión vehicular y PIB per cápita para identificar ciudades prioritarias de inversión en infraestructura de transporte.
+Análisis de más de 1 millón de registros de movilidad de TomTom y datos económicos de OECD en 15 ciudades latinoamericanas. Con Python se identificó que congestión y PIB per cápita no presentan una relación directa, y se priorizó a Bogotá y Lima como candidatas para inversión en infraestructura por combinar alta congestión con menor productividad económica.
 
 <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Seaborn</kbd> <kbd>Matplotlib</kbd> <kbd>EDA</kbd> <kbd>Jupyter Notebook</kbd>
 
