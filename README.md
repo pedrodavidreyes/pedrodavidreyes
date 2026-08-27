@@ -26,7 +26,7 @@
 
 ### 🧪 Test A/B · Landing Page ecommerce   🟠 `Nuevo`
 
-Validación estadística de un experimento A/B en página de inicio combinando prueba t de Student, prueba Z para dos proporciones y chi-cuadrada, para determinar qué versión maximiza conversión.
+Validé estadísticamente un experimento A/B en landing page: la versión B superó a la A con +3.38pp de conversión y +43% de ingreso, validado estadísticamente con prueba t, Z y chi-cuadrada, sobre 40,000 usuarios.
 
 <kbd>Prueba t</kbd> <kbd>Prueba Z</kbd> <kbd>Chi-cuadrada</kbd> <kbd>A/B Testing</kbd> <kbd>Python</kbd> <kbd>Jupyter Notebook</kbd>
 
@@ -50,7 +50,7 @@ Validación estadística de un experimento A/B en página de inicio combinando p
 
 ### 📊 Dashboard de desempeño comercial · Andes Retail Group
 
-Análisis interactivo en Power BI del desempeño comercial 2024–2025 en Perú, Chile y Colombia, enfocado en ventas, rentabilidad, segmentos de clientes y estacionalidad para detectar patrones y oportunidades de mejora.
+Construí un dashboard interactivo en Power BI que reveló que la caída de 6.8% en ventas de Andes Retail Group no era por pérdida de margen (35.1% estable), sino por una caída de 16.5% en ventas altas durante el verano.
 
 <kbd>Power BI</kbd> <kbd>DAX</kbd> <kbd>Power Query</kbd> <kbd>Análisis comercial</kbd> <kbd>Storytelling/kbd>
 
@@ -74,7 +74,7 @@ Análisis interactivo en Power BI del desempeño comercial 2024–2025 en Perú,
 
 ### 🛒 Embudo y retención · MercadoLibre  
 
-Análisis del funnel de compra y cohortes de retención D7–D28, con simulación del impacto económico de mejoras en la tasa de conversión.
+Detecté que el 89% de la fuga en el funnel de Mercado Libre ocurre en select_item → add_to_cart (solo 11.0% avanza), y simulé que recuperar el 15% de ese abandono casi duplica la conversión final: de 1.3% a 2.4%.
 
 <kbd>Análisis de embudo</kbd> <kbd>Cohorte</kbd> <kbd>Conversión</kbd> <kbd>Retención</kbd> <kbd>Simulación</kbd> <kbd>Excel</kbd>
 
