@@ -18,7 +18,7 @@
 <td width="28%" valign="top">
 
 <a href="https://github.com/pedrodavidreyes/Proyecto_De_datos_a_decisiones_de_negocio">
-<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/Rappi.webp" width="100%">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/Rappi2.webp" width="100%">
 </a>
 
 </td>
