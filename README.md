@@ -28,7 +28,7 @@
 
 Análisis end-to-end de RappiPlus: evalué rentabilidad (11.5% margen neto), detecté una anomalía de $40M en costos, mapeé el funnel de conversión (49.5% final, con 18pp de fuga en checkout), medí retención por cohortes (de 86% a 40% en 4 semanas) y validé un experimento A/B en checkout. Resultados comunicados en un dashboard ejecutivo.
 
-<kbdPython</kbd> <kbd>SQL</kbd> <kbd>Power BI</kbd> <kbd>Rentabilidad</kbd> <kbd>Funnel</kbd> <kbd>Retención</kbd> <kbd>A/B Testing</kbd>
+<kbd>Python</kbd> <kbd>SQL</kbd> <kbd>Power BI</kbd> <kbd>Rentabilidad</kbd> <kbd>Funnel</kbd> <kbd>Retención</kbd> <kbd>A/B Testing</kbd>
 
 **[Ver proyecto →](https://github.com/pedrodavidreyes/Proyecto_De_datos_a_decisiones_de_negocio)**
 
