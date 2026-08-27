@@ -42,8 +42,8 @@ Análisis end-to-end de RappiPlus: evalué rentabilidad (11.5% margen neto), det
 <tr>
 <td width="28%" valign="top">
 
-<a href="https://github.com/pedrodavidreyes/Proyecto_De_datos_a_decisiones_de_negocio">
-<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/Rappi.webp" width="100%">
+<a href="https://github.com/pedrodavidreyes/Proyecto_Experimento_A-B_en_Landing_Pag">
+<img src="https://github.com/pedrodavidreyes/pedrodavidreyes/blob/main/assets/landing.webp" width="100%">
 </a>
 
 </td>
