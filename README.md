@@ -38,7 +38,8 @@ Análisis end-to-end de RappiPlus: evalué rentabilidad (11.5% margen neto), det
 
 ---
 
-
+<table>
+<tr>
 <td width="72%" valign="top">
 
 ### 🧪 Test A/B · Landing Page ecommerce   🟠 `Nuevo`
